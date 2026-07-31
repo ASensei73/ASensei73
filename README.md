@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro Hernandez Bustamante</h1>
-<h3 align="center">💻 Software Developer | Java Backend Developer | AppSheet Developer</h3>
+<h1 align="center">Hi 👋, I'm Arom Bustamante</h1>
+<h3 align="center">💻 Software Developer | Java Full stack Developer | AppSheet Developer</h3>
 
 <p align="center">
 Passionate about building scalable applications, automating business processes, and continuously learning new technologies.
@@ -14,8 +14,7 @@ Passionate about building scalable applications, automating business processes, 
 - ⚙️ AppSheet Developer & Process Automation
 - 🗄️ Database Management (MySQL & SQL Server)
 - 🎓 Computer and Information Technology Graduate
-- 🌱 Currently learning **Spring Boot, Angular, SwiftUI and Software Architecture**
-- 🎯 Goal: Become a Backend Java Developer and work internationally.
+- 🎯 Goal: Become a Java Full Stack Engineer and build software for international companies.
 
 ---
 
