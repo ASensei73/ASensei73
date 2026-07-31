@@ -24,7 +24,7 @@ Passionate about building scalable applications, automating business processes, 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,swift,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
 ### ⚙️ Backend
@@ -50,7 +50,7 @@ Passionate about building scalable applications, automating business processes, 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
@@ -61,7 +61,6 @@ Passionate about building scalable applications, automating business processes, 
 - 🌱 Spring Boot
 - ⚡ Angular
 - 🗄️ MySQL & SQL Server
-- 📱 SwiftUI
 - ⚙️ AppSheet Automation
 
 ---
@@ -70,9 +69,6 @@ Passionate about building scalable applications, automating business processes, 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -80,8 +76,7 @@ Passionate about building scalable applications, automating business processes, 
 
 ## 📫 Connect with Me
 
-- 📧 pedrohb0703@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/TU_LINKEDIN
+- 💼 pedrohb0703@gmail.com
 
 ---
 
