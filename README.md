@@ -73,6 +73,12 @@ Passionate about building scalable applications, automating business processes, 
 **Descripción:** API REST empresarial para gestión de empleados.  
 **Repositorio:** https://github.com/ASensei73/EmployeeManagerAPI
 
+### 🔹 InventoryManagerAPI
+**Tecnologías:** Java • Spring Boot • MySQL  
+**Descripción:** API REST empresarial para gestión de Inventario.  
+**Repositorio:** https://github.com/ASensei73/InventoryManagerAPI.git
+
+
 
 </p>
 
