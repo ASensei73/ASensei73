@@ -86,7 +86,7 @@ Passionate about building scalable applications, automating business processes, 
 
 ## 📫 Connect with Me
 
-- 💼 asensei0703@gmail.com
+- 💼 pedrohb0703@gmail.com
 
 ---
 
