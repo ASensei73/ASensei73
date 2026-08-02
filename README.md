@@ -67,7 +67,6 @@ Passionate about building scalable applications, automating business processes, 
 ## 📈 GitHub Stats
 
 <p align="center">
-## 📂 Featured Projects
 
 ### 🔹 EmployeeManagerAPI
 **Tecnologías:** Java • Spring Boot • MySQL  
