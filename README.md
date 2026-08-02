@@ -67,6 +67,12 @@ Passionate about building scalable applications, automating business processes, 
 ## 📈 GitHub Stats
 
 <p align="center">
+## 📂 Featured Projects
+
+### 🔹 EmployeeManagerAPI
+**Tecnologías:** Java • Spring Boot • MySQL  
+**Descripción:** API REST empresarial para gestión de empleados.  
+**Repositorio:** https://github.com/ASensei73/EmployeeManagerAPI
 
 
 </p>
