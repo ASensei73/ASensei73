@@ -45,7 +45,7 @@ Passionate about building scalable applications, automating business processes, 
 </p>
 
 <p>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="50"/>
 </p>
 
 ### 🛠️ Tools
