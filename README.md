@@ -23,7 +23,7 @@ Passionate about building scalable applications, automating business processes, 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### ⚙️ Backend
