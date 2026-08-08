@@ -75,10 +75,13 @@ Passionate about building scalable applications, automating business processes, 
 
 ### 🔹 InventoryManagerAPI
 **Tecnologías:** Java • Spring Boot • MySQL  
-**Descripción:** API REST empresarial para gestión de Inventario.  
-**Repositorio:** https://github.com/ASensei73/InventoryManagerAPI.git
+**Descripción:** API REST empresarial para gestión de inventario.  
+**Repositorio:** https://github.com/ASensei73/InventoryManagerAPI
 
-
+### 🔹 EmployeeManagerFrontend
+**Tecnologías:** Angular • TypeScript • Bootstrap 5  
+**Descripción:** Frontend empresarial para gestión de empleados, con dashboard, CRUD, modales y toasts.  
+**Repositorio:** https://github.com/ASensei73/EmployeeManagerFrontend
 
 </p>
 
