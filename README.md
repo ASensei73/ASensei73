@@ -85,7 +85,7 @@ Passionate about building scalable applications, automating business processes, 
 ### 🔹 Inventory Manager Frontend
 
 **Tecnologías:** Angular • TypeScript • Bootstrap 5  
-**Descripción:** Frontend web para la gestión de inventario, con administración de productos, control de stock.
+**Descripción:** Frontend web para la gestión de inventario, con administración de productos, control de stock.                                                                    
 **Repositorio:** https://github.com/ASensei73/inventory-manager-frontend
 
 
