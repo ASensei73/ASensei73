@@ -42,7 +42,6 @@ Passionate about building scalable applications, automating business processes, 
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
 </p>
 
 
