@@ -73,15 +73,22 @@ Passionate about building scalable applications, automating business processes, 
 **Descripción:** API REST empresarial para gestión de empleados.  
 **Repositorio:** https://github.com/ASensei73/EmployeeManagerAPI
 
+### 🔹 EmployeeManagerFrontend
+**Tecnologías:** Angular • TypeScript • Bootstrap 5  
+**Descripción:** Frontend empresarial para gestión de empleados, con dashboard, CRUD, modales y toasts.  
+**Repositorio:** https://github.com/ASensei73/EmployeeManagerFrontend
+
 ### 🔹 InventoryManagerAPI
 **Tecnologías:** Java • Spring Boot • MySQL  
 **Descripción:** API REST empresarial para gestión de inventario.  
 **Repositorio:** https://github.com/ASensei73/InventoryManagerAPI
 
-### 🔹 EmployeeManagerFrontend
-**Tecnologías:** Angular • TypeScript • Bootstrap 5  
-**Descripción:** Frontend empresarial para gestión de empleados, con dashboard, CRUD, modales y toasts.  
-**Repositorio:** https://github.com/ASensei73/EmployeeManagerFrontend
+### 🔹 Inventory Manager Frontend
+
+**Tecnologías:** Angular • TypeScript • Bootstrap 5
+**Descripción:** Frontend web para la gestión de inventario, con administración de productos, control de stock, códigos de barras y gestión de ventas.
+**Repositorio:** https://github.com/ASensei73/inventory-manager-frontend
+
 
 </p>
 
